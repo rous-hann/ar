@@ -8,7 +8,7 @@
     --text:         #1a1a18;
     --text-muted:   #5a5852;
     --text-faint:   #9a9890;
-    --accent:       #c45c1a;
+    --accent:       #004b19;
     --accent-dim:   #e8d5c4;
     --border:       #d8d4cc;
     --border-soft:  #e8e5de;
@@ -30,7 +30,7 @@
     --text:         #e8e5de;
     --text-muted:   #9a9890;
     --text-faint:   #5a5852;
-    --accent:       #e0723a;
+    --accent:       #07ff59;
     --accent-dim:   #2a1a0e;
     --border:       #2a2a28;
     --border-soft:  #222220;
@@ -269,7 +269,7 @@ h2::before { content: "> "; color: var(--accent); }
 
 .btn-primary {
     background-color: var(--accent);
-    color: #fff;
+    color: #616661;
     border: 1px solid var(--accent);
 }
 .btn-primary:hover { opacity: 0.85; }
